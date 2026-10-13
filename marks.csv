@@ -1,0 +1,1001 @@
+﻿mark_id,student_id,course_id,exam_type,marks
+1,1,15,Assignment 1,83
+2,1,11,Assignment 2,48
+3,1,15,Midterm,47
+4,1,15,End Semester,47
+5,1,11,Practical,65
+6,2,28,Assignment 1,88
+7,2,29,Assignment 2,40
+8,2,28,Midterm,91
+9,2,29,End Semester,39
+10,2,29,Practical,90
+11,3,26,Assignment 1,62
+12,3,30,Assignment 2,58
+13,3,26,Midterm,77
+14,3,26,End Semester,72
+15,3,29,Practical,38
+16,4,4,Assignment 1,67
+17,4,3,Assignment 2,79
+18,4,3,Midterm,66
+19,4,3,End Semester,92
+20,4,1,Practical,76
+21,5,9,Assignment 1,68
+22,5,7,Assignment 2,61
+23,5,10,Midterm,76
+24,5,9,End Semester,79
+25,5,7,Practical,98
+26,6,11,Assignment 1,77
+27,6,13,Assignment 2,64
+28,6,13,Midterm,74
+29,6,11,End Semester,46
+30,6,14,Practical,75
+31,7,20,Assignment 1,98
+32,7,17,Assignment 2,83
+33,7,17,Midterm,68
+34,7,19,End Semester,79
+35,7,18,Practical,91
+36,8,43,Assignment 1,55
+37,8,42,Assignment 2,76
+38,8,41,Midterm,49
+39,8,42,End Semester,74
+40,8,45,Practical,72
+41,9,5,Assignment 1,57
+42,9,4,Assignment 2,44
+43,9,2,Midterm,46
+44,9,1,End Semester,86
+45,9,3,Practical,53
+46,10,8,Assignment 1,80
+47,10,9,Assignment 2,52
+48,10,9,Midterm,48
+49,10,8,End Semester,45
+50,10,8,Practical,63
+51,11,29,Assignment 1,40
+52,11,27,Assignment 2,54
+53,11,28,Midterm,38
+54,11,29,End Semester,63
+55,11,27,Practical,66
+56,12,42,Assignment 1,91
+57,12,42,Assignment 2,53
+58,12,41,Midterm,72
+59,12,42,End Semester,37
+60,12,45,Practical,96
+61,13,39,Assignment 1,88
+62,13,40,Assignment 2,59
+63,13,39,Midterm,58
+64,13,40,End Semester,86
+65,13,40,Practical,84
+66,14,33,Assignment 1,81
+67,14,33,Assignment 2,90
+68,14,33,Midterm,81
+69,14,32,End Semester,75
+70,14,35,Practical,80
+71,15,6,Assignment 1,52
+72,15,8,Assignment 2,66
+73,15,10,Midterm,51
+74,15,6,End Semester,99
+75,15,9,Practical,75
+76,16,16,Assignment 1,64
+77,16,18,Assignment 2,63
+78,16,19,Midterm,69
+79,16,20,End Semester,41
+80,16,19,Practical,91
+81,17,39,Assignment 1,90
+82,17,36,Assignment 2,56
+83,17,36,Midterm,92
+84,17,40,End Semester,42
+85,17,38,Practical,96
+86,18,42,Assignment 1,43
+87,18,43,Assignment 2,43
+88,18,43,Midterm,67
+89,18,41,End Semester,97
+90,18,44,Practical,52
+91,19,39,Assignment 1,62
+92,19,39,Assignment 2,74
+93,19,40,Midterm,73
+94,19,38,End Semester,64
+95,19,40,Practical,100
+96,20,4,Assignment 1,53
+97,20,5,Assignment 2,75
+98,20,1,Midterm,41
+99,20,3,End Semester,50
+100,20,1,Practical,43
+101,21,45,Assignment 1,87
+102,21,42,Assignment 2,59
+103,21,42,Midterm,57
+104,21,42,End Semester,38
+105,21,44,Practical,50
+106,22,18,Assignment 1,46
+107,22,16,Assignment 2,86
+108,22,20,Midterm,84
+109,22,19,End Semester,83
+110,22,19,Practical,52
+111,23,3,Assignment 1,58
+112,23,1,Assignment 2,74
+113,23,3,Midterm,57
+114,23,4,End Semester,67
+115,23,4,Practical,46
+116,24,42,Assignment 1,68
+117,24,44,Assignment 2,60
+118,24,42,Midterm,79
+119,24,41,End Semester,78
+120,24,44,Practical,47
+121,25,20,Assignment 1,67
+122,25,16,Assignment 2,42
+123,25,20,Midterm,42
+124,25,18,End Semester,47
+125,25,17,Practical,35
+126,26,10,Assignment 1,36
+127,26,6,Assignment 2,76
+128,26,9,Midterm,74
+129,26,6,End Semester,82
+130,26,6,Practical,57
+131,27,17,Assignment 1,98
+132,27,17,Assignment 2,62
+133,27,18,Midterm,47
+134,27,17,End Semester,82
+135,27,20,Practical,57
+136,28,14,Assignment 1,57
+137,28,15,Assignment 2,54
+138,28,14,Midterm,38
+139,28,15,End Semester,39
+140,28,15,Practical,50
+141,29,8,Assignment 1,72
+142,29,6,Assignment 2,79
+143,29,7,Midterm,56
+144,29,6,End Semester,98
+145,29,7,Practical,54
+146,30,45,Assignment 1,78
+147,30,44,Assignment 2,84
+148,30,44,Midterm,49
+149,30,45,End Semester,43
+150,30,43,Practical,66
+151,31,18,Assignment 1,53
+152,31,17,Assignment 2,97
+153,31,17,Midterm,86
+154,31,16,End Semester,80
+155,31,16,Practical,96
+156,32,45,Assignment 1,47
+157,32,45,Assignment 2,46
+158,32,43,Midterm,85
+159,32,45,End Semester,60
+160,32,43,Practical,76
+161,33,22,Assignment 1,92
+162,33,22,Assignment 2,72
+163,33,24,Midterm,86
+164,33,24,End Semester,83
+165,33,21,Practical,97
+166,34,46,Assignment 1,97
+167,34,46,Assignment 2,76
+168,34,50,Midterm,96
+169,34,50,End Semester,84
+170,34,48,Practical,98
+171,35,38,Assignment 1,42
+172,35,40,Assignment 2,40
+173,35,37,Midterm,46
+174,35,38,End Semester,57
+175,35,38,Practical,41
+176,36,25,Assignment 1,38
+177,36,21,Assignment 2,73
+178,36,24,Midterm,59
+179,36,23,End Semester,41
+180,36,24,Practical,100
+181,37,40,Assignment 1,57
+182,37,40,Assignment 2,82
+183,37,36,Midterm,62
+184,37,36,End Semester,93
+185,37,37,Practical,63
+186,38,8,Assignment 1,44
+187,38,7,Assignment 2,98
+188,38,7,Midterm,36
+189,38,6,End Semester,83
+190,38,7,Practical,49
+191,39,28,Assignment 1,35
+192,39,27,Assignment 2,77
+193,39,27,Midterm,84
+194,39,27,End Semester,82
+195,39,29,Practical,40
+196,40,22,Assignment 1,53
+197,40,25,Assignment 2,66
+198,40,25,Midterm,68
+199,40,24,End Semester,74
+200,40,22,Practical,69
+201,41,9,Assignment 1,36
+202,41,9,Assignment 2,87
+203,41,9,Midterm,70
+204,41,7,End Semester,97
+205,41,8,Practical,36
+206,42,14,Assignment 1,40
+207,42,14,Assignment 2,51
+208,42,12,Midterm,44
+209,42,11,End Semester,49
+210,42,12,Practical,97
+211,43,26,Assignment 1,58
+212,43,30,Assignment 2,76
+213,43,27,Midterm,67
+214,43,29,End Semester,71
+215,43,30,Practical,71
+216,44,8,Assignment 1,68
+217,44,6,Assignment 2,50
+218,44,9,Midterm,60
+219,44,6,End Semester,98
+220,44,7,Practical,51
+221,45,40,Assignment 1,39
+222,45,39,Assignment 2,96
+223,45,36,Midterm,49
+224,45,37,End Semester,39
+225,45,39,Practical,58
+226,46,16,Assignment 1,43
+227,46,17,Assignment 2,90
+228,46,20,Midterm,82
+229,46,19,End Semester,53
+230,46,19,Practical,40
+231,47,45,Assignment 1,59
+232,47,42,Assignment 2,75
+233,47,41,Midterm,36
+234,47,42,End Semester,78
+235,47,43,Practical,57
+236,48,23,Assignment 1,94
+237,48,22,Assignment 2,42
+238,48,24,Midterm,83
+239,48,22,End Semester,72
+240,48,25,Practical,43
+241,49,32,Assignment 1,58
+242,49,32,Assignment 2,77
+243,49,34,Midterm,38
+244,49,34,End Semester,43
+245,49,32,Practical,71
+246,50,50,Assignment 1,55
+247,50,47,Assignment 2,75
+248,50,46,Midterm,49
+249,50,46,End Semester,87
+250,50,50,Practical,37
+251,51,45,Assignment 1,56
+252,51,43,Assignment 2,82
+253,51,41,Midterm,53
+254,51,41,End Semester,64
+255,51,41,Practical,83
+256,52,26,Assignment 1,42
+257,52,29,Assignment 2,50
+258,52,27,Midterm,39
+259,52,30,End Semester,44
+260,52,26,Practical,95
+261,53,25,Assignment 1,84
+262,53,23,Assignment 2,84
+263,53,24,Midterm,65
+264,53,24,End Semester,67
+265,53,23,Practical,93
+266,54,14,Assignment 1,54
+267,54,14,Assignment 2,81
+268,54,12,Midterm,53
+269,54,13,End Semester,57
+270,54,14,Practical,67
+271,55,47,Assignment 1,82
+272,55,46,Assignment 2,90
+273,55,48,Midterm,53
+274,55,46,End Semester,93
+275,55,49,Practical,64
+276,56,19,Assignment 1,51
+277,56,18,Assignment 2,61
+278,56,19,Midterm,88
+279,56,19,End Semester,93
+280,56,19,Practical,91
+281,57,39,Assignment 1,94
+282,57,38,Assignment 2,78
+283,57,38,Midterm,86
+284,57,37,End Semester,61
+285,57,37,Practical,62
+286,58,12,Assignment 1,59
+287,58,15,Assignment 2,81
+288,58,14,Midterm,87
+289,58,13,End Semester,74
+290,58,12,Practical,85
+291,59,17,Assignment 1,95
+292,59,16,Assignment 2,92
+293,59,18,Midterm,87
+294,59,16,End Semester,60
+295,59,17,Practical,78
+296,60,5,Assignment 1,55
+297,60,4,Assignment 2,90
+298,60,2,Midterm,91
+299,60,1,End Semester,61
+300,60,4,Practical,57
+301,61,48,Assignment 1,54
+302,61,49,Assignment 2,60
+303,61,47,Midterm,87
+304,61,48,End Semester,94
+305,61,47,Practical,51
+306,62,14,Assignment 1,75
+307,62,15,Assignment 2,39
+308,62,11,Midterm,43
+309,62,11,End Semester,37
+310,62,11,Practical,41
+311,63,13,Assignment 1,46
+312,63,13,Assignment 2,80
+313,63,12,Midterm,54
+314,63,12,End Semester,74
+315,63,11,Practical,81
+316,64,20,Assignment 1,75
+317,64,20,Assignment 2,92
+318,64,19,Midterm,78
+319,64,17,End Semester,72
+320,64,18,Practical,47
+321,65,45,Assignment 1,55
+322,65,42,Assignment 2,55
+323,65,44,Midterm,50
+324,65,45,End Semester,87
+325,65,42,Practical,95
+326,66,43,Assignment 1,66
+327,66,41,Assignment 2,53
+328,66,44,Midterm,47
+329,66,41,End Semester,52
+330,66,44,Practical,95
+331,67,19,Assignment 1,96
+332,67,17,Assignment 2,37
+333,67,20,Midterm,81
+334,67,19,End Semester,58
+335,67,19,Practical,37
+336,68,19,Assignment 1,79
+337,68,18,Assignment 2,45
+338,68,18,Midterm,43
+339,68,17,End Semester,52
+340,68,20,Practical,73
+341,69,24,Assignment 1,54
+342,69,21,Assignment 2,60
+343,69,23,Midterm,72
+344,69,21,End Semester,80
+345,69,25,Practical,98
+346,70,16,Assignment 1,88
+347,70,17,Assignment 2,81
+348,70,18,Midterm,59
+349,70,20,End Semester,70
+350,70,20,Practical,38
+351,71,34,Assignment 1,75
+352,71,32,Assignment 2,41
+353,71,32,Midterm,74
+354,71,33,End Semester,92
+355,71,34,Practical,78
+356,72,16,Assignment 1,69
+357,72,19,Assignment 2,45
+358,72,18,Midterm,39
+359,72,17,End Semester,36
+360,72,20,Practical,37
+361,73,48,Assignment 1,83
+362,73,47,Assignment 2,95
+363,73,49,Midterm,84
+364,73,46,End Semester,69
+365,73,49,Practical,77
+366,74,33,Assignment 1,100
+367,74,34,Assignment 2,87
+368,74,33,Midterm,51
+369,74,33,End Semester,68
+370,74,35,Practical,59
+371,75,19,Assignment 1,71
+372,75,18,Assignment 2,45
+373,75,19,Midterm,45
+374,75,18,End Semester,100
+375,75,16,Practical,37
+376,76,32,Assignment 1,48
+377,76,32,Assignment 2,44
+378,76,32,Midterm,82
+379,76,31,End Semester,54
+380,76,35,Practical,65
+381,77,46,Assignment 1,44
+382,77,46,Assignment 2,36
+383,77,48,Midterm,44
+384,77,47,End Semester,93
+385,77,48,Practical,48
+386,78,40,Assignment 1,50
+387,78,36,Assignment 2,52
+388,78,37,Midterm,45
+389,78,37,End Semester,46
+390,78,36,Practical,35
+391,79,39,Assignment 1,64
+392,79,37,Assignment 2,41
+393,79,36,Midterm,84
+394,79,38,End Semester,59
+395,79,39,Practical,60
+396,80,9,Assignment 1,58
+397,80,9,Assignment 2,71
+398,80,10,Midterm,42
+399,80,9,End Semester,58
+400,80,10,Practical,35
+401,81,6,Assignment 1,57
+402,81,7,Assignment 2,68
+403,81,7,Midterm,59
+404,81,6,End Semester,44
+405,81,7,Practical,58
+406,82,3,Assignment 1,64
+407,82,2,Assignment 2,85
+408,82,5,Midterm,72
+409,82,5,End Semester,87
+410,82,5,Practical,71
+411,83,7,Assignment 1,89
+412,83,8,Assignment 2,79
+413,83,7,Midterm,35
+414,83,8,End Semester,71
+415,83,7,Practical,43
+416,84,26,Assignment 1,43
+417,84,29,Assignment 2,79
+418,84,26,Midterm,90
+419,84,26,End Semester,92
+420,84,26,Practical,46
+421,85,13,Assignment 1,81
+422,85,15,Assignment 2,43
+423,85,15,Midterm,68
+424,85,13,End Semester,92
+425,85,13,Practical,96
+426,86,33,Assignment 1,98
+427,86,33,Assignment 2,97
+428,86,33,Midterm,59
+429,86,32,End Semester,56
+430,86,31,Practical,80
+431,87,24,Assignment 1,94
+432,87,24,Assignment 2,76
+433,87,24,Midterm,94
+434,87,24,End Semester,92
+435,87,22,Practical,53
+436,88,44,Assignment 1,88
+437,88,41,Assignment 2,52
+438,88,43,Midterm,83
+439,88,42,End Semester,86
+440,88,43,Practical,36
+441,89,34,Assignment 1,57
+442,89,32,Assignment 2,58
+443,89,32,Midterm,47
+444,89,31,End Semester,85
+445,89,34,Practical,54
+446,90,38,Assignment 1,78
+447,90,37,Assignment 2,37
+448,90,39,Midterm,85
+449,90,37,End Semester,73
+450,90,40,Practical,70
+451,91,42,Assignment 1,59
+452,91,44,Assignment 2,98
+453,91,44,Midterm,90
+454,91,42,End Semester,97
+455,91,41,Practical,80
+456,92,16,Assignment 1,43
+457,92,18,Assignment 2,96
+458,92,20,Midterm,72
+459,92,17,End Semester,65
+460,92,20,Practical,98
+461,93,37,Assignment 1,88
+462,93,39,Assignment 2,36
+463,93,38,Midterm,55
+464,93,38,End Semester,74
+465,93,40,Practical,89
+466,94,30,Assignment 1,50
+467,94,30,Assignment 2,51
+468,94,30,Midterm,71
+469,94,28,End Semester,82
+470,94,27,Practical,82
+471,95,25,Assignment 1,95
+472,95,21,Assignment 2,37
+473,95,24,Midterm,82
+474,95,24,End Semester,66
+475,95,22,Practical,76
+476,96,17,Assignment 1,75
+477,96,19,Assignment 2,70
+478,96,20,Midterm,78
+479,96,20,End Semester,77
+480,96,17,Practical,51
+481,97,38,Assignment 1,64
+482,97,40,Assignment 2,65
+483,97,37,Midterm,97
+484,97,40,End Semester,95
+485,97,36,Practical,75
+486,98,25,Assignment 1,47
+487,98,24,Assignment 2,53
+488,98,25,Midterm,76
+489,98,21,End Semester,97
+490,98,24,Practical,69
+491,99,41,Assignment 1,92
+492,99,44,Assignment 2,59
+493,99,43,Midterm,53
+494,99,43,End Semester,42
+495,99,44,Practical,66
+496,100,37,Assignment 1,35
+497,100,38,Assignment 2,80
+498,100,40,Midterm,96
+499,100,40,End Semester,53
+500,100,38,Practical,75
+501,101,19,Assignment 1,75
+502,101,20,Assignment 2,60
+503,101,17,Midterm,50
+504,101,18,End Semester,42
+505,101,17,Practical,99
+506,102,18,Assignment 1,66
+507,102,19,Assignment 2,89
+508,102,16,Midterm,73
+509,102,18,End Semester,61
+510,102,17,Practical,72
+511,103,16,Assignment 1,38
+512,103,19,Assignment 2,45
+513,103,18,Midterm,94
+514,103,17,End Semester,92
+515,103,19,Practical,55
+516,104,45,Assignment 1,91
+517,104,43,Assignment 2,48
+518,104,43,Midterm,93
+519,104,43,End Semester,60
+520,104,45,Practical,93
+521,105,13,Assignment 1,55
+522,105,15,Assignment 2,51
+523,105,13,Midterm,37
+524,105,11,End Semester,41
+525,105,13,Practical,96
+526,106,38,Assignment 1,53
+527,106,38,Assignment 2,83
+528,106,40,Midterm,38
+529,106,39,End Semester,76
+530,106,39,Practical,57
+531,107,8,Assignment 1,39
+532,107,8,Assignment 2,76
+533,107,10,Midterm,40
+534,107,10,End Semester,42
+535,107,7,Practical,98
+536,108,1,Assignment 1,43
+537,108,2,Assignment 2,54
+538,108,1,Midterm,55
+539,108,2,End Semester,46
+540,108,3,Practical,80
+541,109,8,Assignment 1,45
+542,109,9,Assignment 2,78
+543,109,6,Midterm,98
+544,109,9,End Semester,42
+545,109,10,Practical,88
+546,110,44,Assignment 1,54
+547,110,45,Assignment 2,46
+548,110,42,Midterm,92
+549,110,42,End Semester,49
+550,110,43,Practical,64
+551,111,47,Assignment 1,42
+552,111,50,Assignment 2,38
+553,111,46,Midterm,63
+554,111,49,End Semester,40
+555,111,46,Practical,63
+556,112,17,Assignment 1,54
+557,112,17,Assignment 2,99
+558,112,18,Midterm,76
+559,112,19,End Semester,85
+560,112,16,Practical,100
+561,113,18,Assignment 1,98
+562,113,16,Assignment 2,88
+563,113,20,Midterm,43
+564,113,16,End Semester,60
+565,113,20,Practical,39
+566,114,37,Assignment 1,64
+567,114,40,Assignment 2,97
+568,114,36,Midterm,79
+569,114,36,End Semester,82
+570,114,40,Practical,56
+571,115,24,Assignment 1,62
+572,115,22,Assignment 2,35
+573,115,25,Midterm,71
+574,115,23,End Semester,82
+575,115,25,Practical,84
+576,116,47,Assignment 1,60
+577,116,50,Assignment 2,67
+578,116,48,Midterm,60
+579,116,48,End Semester,68
+580,116,49,Practical,50
+581,117,13,Assignment 1,92
+582,117,11,Assignment 2,92
+583,117,15,Midterm,100
+584,117,14,End Semester,61
+585,117,12,Practical,49
+586,118,21,Assignment 1,84
+587,118,21,Assignment 2,61
+588,118,22,Midterm,73
+589,118,22,End Semester,73
+590,118,23,Practical,94
+591,119,36,Assignment 1,64
+592,119,40,Assignment 2,67
+593,119,37,Midterm,100
+594,119,36,End Semester,74
+595,119,36,Practical,62
+596,120,7,Assignment 1,77
+597,120,7,Assignment 2,98
+598,120,9,Midterm,76
+599,120,9,End Semester,85
+600,120,10,Practical,56
+601,121,24,Assignment 1,96
+602,121,25,Assignment 2,71
+603,121,22,Midterm,44
+604,121,25,End Semester,48
+605,121,21,Practical,38
+606,122,25,Assignment 1,41
+607,122,21,Assignment 2,70
+608,122,21,Midterm,73
+609,122,24,End Semester,83
+610,122,25,Practical,55
+611,123,11,Assignment 1,41
+612,123,13,Assignment 2,62
+613,123,12,Midterm,89
+614,123,13,End Semester,44
+615,123,13,Practical,88
+616,124,31,Assignment 1,73
+617,124,31,Assignment 2,50
+618,124,33,Midterm,53
+619,124,33,End Semester,93
+620,124,32,Practical,50
+621,125,36,Assignment 1,95
+622,125,37,Assignment 2,36
+623,125,36,Midterm,46
+624,125,37,End Semester,93
+625,125,40,Practical,69
+626,126,8,Assignment 1,37
+627,126,10,Assignment 2,96
+628,126,6,Midterm,54
+629,126,7,End Semester,43
+630,126,9,Practical,83
+631,127,1,Assignment 1,39
+632,127,4,Assignment 2,90
+633,127,4,Midterm,87
+634,127,2,End Semester,36
+635,127,5,Practical,40
+636,128,41,Assignment 1,70
+637,128,43,Assignment 2,96
+638,128,42,Midterm,69
+639,128,41,End Semester,69
+640,128,42,Practical,65
+641,129,4,Assignment 1,35
+642,129,1,Assignment 2,90
+643,129,5,Midterm,97
+644,129,2,End Semester,41
+645,129,3,Practical,81
+646,130,36,Assignment 1,82
+647,130,39,Assignment 2,95
+648,130,40,Midterm,55
+649,130,38,End Semester,82
+650,130,40,Practical,53
+651,131,43,Assignment 1,79
+652,131,44,Assignment 2,57
+653,131,45,Midterm,86
+654,131,43,End Semester,94
+655,131,43,Practical,72
+656,132,37,Assignment 1,98
+657,132,40,Assignment 2,87
+658,132,38,Midterm,90
+659,132,36,End Semester,67
+660,132,37,Practical,77
+661,133,23,Assignment 1,94
+662,133,24,Assignment 2,56
+663,133,21,Midterm,78
+664,133,25,End Semester,53
+665,133,25,Practical,78
+666,134,15,Assignment 1,55
+667,134,15,Assignment 2,52
+668,134,12,Midterm,85
+669,134,11,End Semester,88
+670,134,11,Practical,99
+671,135,25,Assignment 1,40
+672,135,25,Assignment 2,48
+673,135,25,Midterm,35
+674,135,23,End Semester,56
+675,135,22,Practical,77
+676,136,4,Assignment 1,49
+677,136,3,Assignment 2,82
+678,136,5,Midterm,85
+679,136,5,End Semester,85
+680,136,2,Practical,79
+681,137,39,Assignment 1,48
+682,137,37,Assignment 2,93
+683,137,37,Midterm,59
+684,137,36,End Semester,99
+685,137,36,Practical,98
+686,138,27,Assignment 1,44
+687,138,28,Assignment 2,65
+688,138,29,Midterm,73
+689,138,27,End Semester,47
+690,138,27,Practical,38
+691,139,31,Assignment 1,38
+692,139,33,Assignment 2,50
+693,139,32,Midterm,58
+694,139,31,End Semester,43
+695,139,33,Practical,92
+696,140,11,Assignment 1,89
+697,140,13,Assignment 2,86
+698,140,11,Midterm,73
+699,140,13,End Semester,84
+700,140,13,Practical,61
+701,141,38,Assignment 1,89
+702,141,40,Assignment 2,96
+703,141,40,Midterm,40
+704,141,39,End Semester,39
+705,141,39,Practical,75
+706,142,13,Assignment 1,38
+707,142,13,Assignment 2,95
+708,142,14,Midterm,47
+709,142,14,End Semester,79
+710,142,14,Practical,38
+711,143,9,Assignment 1,39
+712,143,9,Assignment 2,46
+713,143,9,Midterm,67
+714,143,10,End Semester,46
+715,143,6,Practical,66
+716,144,36,Assignment 1,93
+717,144,39,Assignment 2,78
+718,144,37,Midterm,95
+719,144,36,End Semester,76
+720,144,38,Practical,92
+721,145,22,Assignment 1,87
+722,145,21,Assignment 2,36
+723,145,22,Midterm,38
+724,145,25,End Semester,91
+725,145,21,Practical,99
+726,146,7,Assignment 1,94
+727,146,8,Assignment 2,84
+728,146,10,Midterm,41
+729,146,8,End Semester,50
+730,146,10,Practical,97
+731,147,2,Assignment 1,92
+732,147,3,Assignment 2,55
+733,147,1,Midterm,72
+734,147,5,End Semester,77
+735,147,4,Practical,49
+736,148,42,Assignment 1,44
+737,148,42,Assignment 2,96
+738,148,44,Midterm,66
+739,148,41,End Semester,84
+740,148,42,Practical,83
+741,149,46,Assignment 1,73
+742,149,47,Assignment 2,63
+743,149,48,Midterm,98
+744,149,47,End Semester,91
+745,149,46,Practical,47
+746,150,47,Assignment 1,52
+747,150,47,Assignment 2,38
+748,150,49,Midterm,98
+749,150,48,End Semester,90
+750,150,46,Practical,82
+751,151,25,Assignment 1,48
+752,151,24,Assignment 2,95
+753,151,21,Midterm,70
+754,151,24,End Semester,89
+755,151,21,Practical,43
+756,152,36,Assignment 1,68
+757,152,38,Assignment 2,95
+758,152,39,Midterm,99
+759,152,37,End Semester,52
+760,152,36,Practical,38
+761,153,22,Assignment 1,46
+762,153,25,Assignment 2,58
+763,153,22,Midterm,92
+764,153,25,End Semester,82
+765,153,25,Practical,68
+766,154,19,Assignment 1,43
+767,154,17,Assignment 2,87
+768,154,16,Midterm,40
+769,154,17,End Semester,60
+770,154,17,Practical,73
+771,155,22,Assignment 1,85
+772,155,21,Assignment 2,82
+773,155,21,Midterm,100
+774,155,21,End Semester,49
+775,155,25,Practical,69
+776,156,5,Assignment 1,36
+777,156,3,Assignment 2,52
+778,156,3,Midterm,66
+779,156,4,End Semester,62
+780,156,2,Practical,95
+781,157,29,Assignment 1,96
+782,157,27,Assignment 2,47
+783,157,27,Midterm,84
+784,157,30,End Semester,44
+785,157,27,Practical,51
+786,158,15,Assignment 1,53
+787,158,11,Assignment 2,96
+788,158,15,Midterm,44
+789,158,15,End Semester,56
+790,158,12,Practical,87
+791,159,48,Assignment 1,63
+792,159,48,Assignment 2,87
+793,159,46,Midterm,90
+794,159,46,End Semester,76
+795,159,49,Practical,38
+796,160,32,Assignment 1,82
+797,160,34,Assignment 2,92
+798,160,35,Midterm,63
+799,160,32,End Semester,96
+800,160,35,Practical,100
+801,161,44,Assignment 1,55
+802,161,42,Assignment 2,71
+803,161,44,Midterm,44
+804,161,44,End Semester,38
+805,161,44,Practical,43
+806,162,25,Assignment 1,45
+807,162,22,Assignment 2,40
+808,162,23,Midterm,70
+809,162,24,End Semester,70
+810,162,24,Practical,78
+811,163,18,Assignment 1,76
+812,163,18,Assignment 2,95
+813,163,20,Midterm,97
+814,163,19,End Semester,52
+815,163,19,Practical,78
+816,164,31,Assignment 1,97
+817,164,33,Assignment 2,43
+818,164,33,Midterm,69
+819,164,33,End Semester,71
+820,164,35,Practical,100
+821,165,22,Assignment 1,75
+822,165,23,Assignment 2,65
+823,165,25,Midterm,59
+824,165,23,End Semester,74
+825,165,22,Practical,77
+826,166,5,Assignment 1,87
+827,166,3,Assignment 2,68
+828,166,5,Midterm,89
+829,166,2,End Semester,52
+830,166,3,Practical,59
+831,167,8,Assignment 1,76
+832,167,7,Assignment 2,94
+833,167,10,Midterm,57
+834,167,6,End Semester,72
+835,167,7,Practical,61
+836,168,15,Assignment 1,78
+837,168,12,Assignment 2,98
+838,168,13,Midterm,66
+839,168,14,End Semester,96
+840,168,13,Practical,93
+841,169,20,Assignment 1,78
+842,169,17,Assignment 2,67
+843,169,20,Midterm,44
+844,169,18,End Semester,50
+845,169,19,Practical,85
+846,170,41,Assignment 1,43
+847,170,42,Assignment 2,67
+848,170,44,Midterm,93
+849,170,45,End Semester,70
+850,170,45,Practical,88
+851,171,37,Assignment 1,69
+852,171,36,Assignment 2,89
+853,171,39,Midterm,48
+854,171,39,End Semester,90
+855,171,39,Practical,75
+856,172,36,Assignment 1,52
+857,172,37,Assignment 2,50
+858,172,38,Midterm,41
+859,172,36,End Semester,43
+860,172,38,Practical,48
+861,173,30,Assignment 1,69
+862,173,27,Assignment 2,47
+863,173,29,Midterm,61
+864,173,26,End Semester,42
+865,173,26,Practical,49
+866,174,38,Assignment 1,70
+867,174,38,Assignment 2,90
+868,174,37,Midterm,64
+869,174,37,End Semester,69
+870,174,40,Practical,80
+871,175,27,Assignment 1,54
+872,175,26,Assignment 2,75
+873,175,27,Midterm,56
+874,175,29,End Semester,61
+875,175,30,Practical,37
+876,176,42,Assignment 1,46
+877,176,45,Assignment 2,69
+878,176,44,Midterm,50
+879,176,41,End Semester,66
+880,176,44,Practical,63
+881,177,12,Assignment 1,93
+882,177,15,Assignment 2,56
+883,177,12,Midterm,63
+884,177,13,End Semester,48
+885,177,11,Practical,65
+886,178,43,Assignment 1,90
+887,178,45,Assignment 2,84
+888,178,44,Midterm,62
+889,178,42,End Semester,47
+890,178,41,Practical,87
+891,179,4,Assignment 1,91
+892,179,2,Assignment 2,84
+893,179,5,Midterm,83
+894,179,1,End Semester,69
+895,179,2,Practical,97
+896,180,24,Assignment 1,78
+897,180,23,Assignment 2,37
+898,180,24,Midterm,99
+899,180,25,End Semester,84
+900,180,24,Practical,61
+901,181,8,Assignment 1,53
+902,181,6,Assignment 2,83
+903,181,7,Midterm,86
+904,181,7,End Semester,62
+905,181,8,Practical,80
+906,182,44,Assignment 1,70
+907,182,42,Assignment 2,72
+908,182,42,Midterm,83
+909,182,45,End Semester,95
+910,182,41,Practical,66
+911,183,1,Assignment 1,92
+912,183,1,Assignment 2,84
+913,183,5,Midterm,79
+914,183,3,End Semester,83
+915,183,1,Practical,97
+916,184,39,Assignment 1,92
+917,184,39,Assignment 2,46
+918,184,39,Midterm,67
+919,184,38,End Semester,64
+920,184,38,Practical,81
+921,185,13,Assignment 1,96
+922,185,12,Assignment 2,56
+923,185,12,Midterm,60
+924,185,11,End Semester,83
+925,185,13,Practical,41
+926,186,47,Assignment 1,46
+927,186,47,Assignment 2,46
+928,186,50,Midterm,41
+929,186,48,End Semester,45
+930,186,50,Practical,67
+931,187,9,Assignment 1,54
+932,187,8,Assignment 2,53
+933,187,9,Midterm,70
+934,187,7,End Semester,64
+935,187,9,Practical,74
+936,188,37,Assignment 1,43
+937,188,37,Assignment 2,46
+938,188,40,Midterm,41
+939,188,40,End Semester,57
+940,188,38,Practical,95
+941,189,34,Assignment 1,56
+942,189,32,Assignment 2,37
+943,189,32,Midterm,44
+944,189,31,End Semester,47
+945,189,33,Practical,57
+946,190,25,Assignment 1,50
+947,190,24,Assignment 2,82
+948,190,22,Midterm,54
+949,190,25,End Semester,58
+950,190,22,Practical,36
+951,191,8,Assignment 1,56
+952,191,8,Assignment 2,100
+953,191,6,Midterm,99
+954,191,10,End Semester,42
+955,191,9,Practical,52
+956,192,12,Assignment 1,41
+957,192,14,Assignment 2,54
+958,192,12,Midterm,65
+959,192,15,End Semester,82
+960,192,15,Practical,70
+961,193,9,Assignment 1,66
+962,193,9,Assignment 2,57
+963,193,6,Midterm,66
+964,193,7,End Semester,40
+965,193,6,Practical,83
+966,194,47,Assignment 1,35
+967,194,48,Assignment 2,93
+968,194,50,Midterm,97
+969,194,49,End Semester,86
+970,194,50,Practical,94
+971,195,40,Assignment 1,80
+972,195,40,Assignment 2,86
+973,195,38,Midterm,87
+974,195,37,End Semester,99
+975,195,39,Practical,51
+976,196,21,Assignment 1,61
+977,196,21,Assignment 2,82
+978,196,23,Midterm,49
+979,196,25,End Semester,87
+980,196,24,Practical,83
+981,197,23,Assignment 1,82
+982,197,21,Assignment 2,75
+983,197,24,Midterm,60
+984,197,21,End Semester,62
+985,197,24,Practical,53
+986,198,29,Assignment 1,52
+987,198,28,Assignment 2,85
+988,198,27,Midterm,53
+989,198,26,End Semester,64
+990,198,29,Practical,67
+991,199,14,Assignment 1,86
+992,199,14,Assignment 2,94
+993,199,13,Midterm,61
+994,199,14,End Semester,51
+995,199,14,Practical,41
+996,200,32,Assignment 1,53
+997,200,31,Assignment 2,72
+998,200,33,Midterm,41
+999,200,33,End Semester,94
+1000,200,34,Practical,90
